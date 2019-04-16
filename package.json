@@ -18,7 +18,8 @@
   "author": "Marcio Reis <hello@marcioreis.pt>",
   "license": "ISC",
   "files": [
-    "./dist/**/*"
+    "./dist/**/*",
+    "./dist/index.d.ts"
   ],
   "devDependencies": {
     "@types/jest": "^24.0.11",
