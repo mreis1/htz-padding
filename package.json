@@ -1,7 +1,7 @@
 {
   "name": "htz-padding",
   "version": "1.0.0",
-  "description": "",
+  "description": "A small, dependency free lib to pad some strings",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
