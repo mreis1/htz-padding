@@ -1,4 +1,9 @@
+[![Build Status](https://travis-ci.org/mreis1/htz-padding.svg?branch=master)](https://travis-ci.org/mreis1/htz-padding)
+
+
 # htz-padding
+A small, dependency free lib to pad some strings
+
 
 ### Install
 
