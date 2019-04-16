@@ -1,5 +1,10 @@
 # htz-padding
 
+### Install
+
+`$ npm install htz-padding`
+
+### Usage
 
 ```
 import {paddingLeft} from 'htz-padding';
